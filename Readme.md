@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Мария Бедрицкая](https://up.htmlacademy.ru/htmlcss/13/user/204416).
+* Наставник: [Александр Аверьянов](https://htmlacademy.ru/profile/id208268).
 
 ---
 
